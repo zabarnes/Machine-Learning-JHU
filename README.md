@@ -16,7 +16,7 @@ rscript launch.R
 This should open the application in your default browser. Press `ctrl-c` to stop the server.
 
 
-*Note: R is requires, and this will load all dependent packages.
+*Note: R is required, and this will load all dependent packages.
 
 <h2>Useage:</h2>
 
